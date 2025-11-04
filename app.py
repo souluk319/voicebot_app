@@ -1,4 +1,3 @@
-from sklearn import base
 import streamlit as st
 from audiorecorder import audiorecorder
 from openai_service import stt, ask_gpt, tts
