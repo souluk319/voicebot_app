@@ -56,7 +56,7 @@ distro==1.9.0
 docopt==0.6.2
 einops==0.8.1
 emoji==1.2.0
-en_core_web_sm==3.8.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 encodec==0.1.1
 executing==2.2.1
 Faker==37.8.0
@@ -205,7 +205,7 @@ psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 py4j==0.10.9.9
-pyarrow==18.1.0
+pyarrow>=21.0.0
 pybind11==2.9.2
 pycodestyle==2.14.0
 pycparser==2.22
